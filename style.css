@@ -17,6 +17,15 @@ h1 {
   text-align: center;
   color: #fff;
 }
+h5{
+  font-size: 0.95rem;
+  font-weight: 50;
+  margin: 1rem 0 3rem;
+  text-align: center;
+  color: #fff;
+  border-bottom: 2px solid lime;
+  outline: none;
+}
 
 .container {
   width: 360px;
